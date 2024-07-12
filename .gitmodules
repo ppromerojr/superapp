@@ -1,0 +1,9 @@
+[submodule "shell"]
+	path = shell
+	url = git@github.com:ppromerojr/shell.git
+[submodule "mfe1"]
+	path = mfe1
+	url = git@github.com:ppromerojr/mfe1.git
+[submodule "mfe2"]
+	path = mfe2
+	url = git@github.com:ppromerojr/mfe2.git
